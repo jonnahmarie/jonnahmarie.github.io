@@ -4,7 +4,7 @@ This project aimed to create a mobile responsive designed portfolio using Bootst
 
 There are no media queries used in my customized stylesheet.
 
-[Live Website](https://jonnahmarie.github.io/Portfolio/)
+[Live Website](https://jonnahmarie.github.io)
 
 Screenshots: 
 ![Animated Gif of Responsiveness](assets/images/responsive-gif.gif)
