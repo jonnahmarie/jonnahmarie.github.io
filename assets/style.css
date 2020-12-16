@@ -1,0 +1,83 @@
+body {
+    background-image: url("images/honeycomb.jpg");
+    background-repeat: repeat;
+    background-size: 1000px 800px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #111111;
+}
+
+nav h2 {
+    font-family: 'Bebas Neue', cursive;
+    color: #fff;
+    font-size: 32pt;
+    letter-spacing: 2px;
+}
+
+.nav-bar-style a:link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18pt;
+    text-transform: lowercase;
+    color: #cccccc;
+    background-color: transparent !important;
+}
+
+.nav-bar-style a:hover {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18pt;
+    text-transform: lowercase;
+    font-weight: bold;
+    color: #b2b4cb !important;
+}
+
+main {
+    background-color: #fff;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: #604e8a;
+    font-weight: bold;
+    font-size: 20pt;
+    border-left: 6px solid #686bbd;
+    background-color: #e6e7f9;
+}
+
+h5 {
+    font-family: 'Bebas Neue', cursive;
+    color: #7558C8;
+    font-size: 18pt;
+    text-align: center;
+}
+
+.resize {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.social {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    background-color: #ffffff;;
+}
+
+.btn-primary, .btn-primary:focus {
+    color:#fff;background-color:#987AEE;border-color:#987AEE;
+}
+
+.btn-primary:hover {
+    color:#fff;background-color:#7558C8;border-color:#7558C8;
+}
+
+.footer-margin {
+    height: 75px;
+}
+
+.links-btn a, a:link, a:visited, a:active {
+    background-color: #604e8a;
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: none;
+    font-size: 12pt;
+};
