@@ -49,6 +49,11 @@ h5 {
     text-align: center;
 }
 
+.skills {
+    width: 100px;
+    height: 200px;
+}
+
 .resize {
     width: 250px;
     height: 250px;
